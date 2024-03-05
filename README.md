@@ -1,6 +1,6 @@
 <h3 align="center">Masters student of Biomedical Engineering at Iran University of Science and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehabibimm&label=Profile%20views&color=0e75b6&style=flat" alt="thehabibimm" /> </p>
+
 
 - 🌱Passionate about neuroscience and BCI, I enjoy exploring deep learning algorithms for P300 speller applications and decoding local field potentials to unravel neural information processing.
 

@@ -1,5 +1,5 @@
 <h3 align="center">Masters student of Biomedical Engineering at Iran University of Science and Technology</h3>
-<img align="right" alt="Coding" width="400" src=[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://giphy.com/gifs/brain-neuroscience-visualization-l41lJ8ywG1ncm9FXW)">
+<img align="right" alt="Coding" width="400" src=https://giphy.com/gifs/brain-neuroscience-visualization-l41lJ8ywG1ncm9FXW">
 - 🌱Passionate about neuroscience and BCI, I enjoy exploring deep learning algorithms for P300 speller applications and decoding local field potentials to unravel neural information processing.
 
 <h3 align="left">Connect with me:</h3>

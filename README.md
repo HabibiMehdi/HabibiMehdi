@@ -1,7 +1,5 @@
 <h3 align="center">Masters student of Biomedical Engineering at Iran University of Science and Technology</h3>
-![image](https://github.com/thehabibimm/thehabibimm/assets/123571190/3acf78c5-5aff-4353-bb05-fce1ba47d7b1)
-
-
+<img align="right" alt="Coding" width="400" src=https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 - 🌱Passionate about neuroscience and BCI, I enjoy exploring deep learning algorithms for P300 speller applications and decoding local field potentials to unravel neural information processing.
 
 <h3 align="left">Connect with me:</h3>

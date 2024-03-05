@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehabibimm&label=Profile%20views&color=0e75b6&style=flat" alt="thehabibimm" /> </p>
 
-- 🌱 I am interested in Neuroscience, BCI . **P300-Speller using Deep learning**
+- 🌱 Passionate about neuroscience and BCI, I enjoy exploring deep learning algorithms for P300 speller applications and decoding local field potentials to unravel neural information processing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

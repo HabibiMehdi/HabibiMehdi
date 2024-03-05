@@ -4,16 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehabibimm" alt="thehabibimm" /></a> </p>
 
-- 🌱 Passionate about neuroscience and BCI, I enjoy exploring deep learning algorithms for P300 speller applications and decoding local field potentials to unravel neural information processing.
+- 🌱 I am interested in Neuroscience, BCI . **P300-Speller using Deep learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehdi-habibi-128630221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-habibi-128630221" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehabibimm&show_icons=true&locale=en" alt="thehabibimm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehabibimm&" alt="thehabibimm" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehabibimm&" alt="thehabibimm" /></p>
